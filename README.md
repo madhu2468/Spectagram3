@@ -1,1 +1,1 @@
-# Spectagram3
+# SPECTAGRAM-1
